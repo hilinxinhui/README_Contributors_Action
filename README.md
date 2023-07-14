@@ -64,6 +64,12 @@ jobs:
 
 即可。
 
+注意每次有人员变更时仓库会新增一个提交记录，像这样：
+
+`docs(contributor): contrib-readme-action has updated readme`
+
+本地仓库提交新内容时记得`git pull`。
+
 ## 许可
 
 本仓库使用[MIT](./LICENSE)协议。
