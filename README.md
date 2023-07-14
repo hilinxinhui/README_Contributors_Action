@@ -6,7 +6,8 @@
 
 ## 效果演示
 
-
+<!-- readme: collaborators,contributors -start -->
+<!-- readme: collaborators,contributors -end -->
 
 ## 如何使用
 
